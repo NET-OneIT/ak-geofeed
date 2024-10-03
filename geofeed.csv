@@ -4,7 +4,7 @@
 # Self-published geofeed as defined in RFC 8805.
 #ip_prefix,country_code,region,city,
 
-66.54.105.0/24,US,US-NC,Charlotte,
+66.54.105.0/24,US,US-NC,Kannapolis,
 4.26.69.160/30,US,US-NC,Charlotte,
 4.79.200.56/30,US,US-NC,Concord,
 152.186.207.208/30,US,US-NC,Charlotte,
